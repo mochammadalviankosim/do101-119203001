@@ -1,0 +1,14 @@
+{
+    "name": "hello",
+    "version": "0.1.0",
+    "description": "An example package.json",
+    "author": "Mochammad Alvian Kosim <mochammad.students.paramadina.ac.id>",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "cookie-parser": "1.4.*",
+        "http-errors": ">=1.6.3"
+    },
+    "license": "MIT"
+}
